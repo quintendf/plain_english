@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: plain_english_development
+  username: qf
+  password:
+  host: localhost
+  port: 5432
