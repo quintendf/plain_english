@@ -7,6 +7,9 @@ gem 'rails', '3.2.13'
 
 gem 'pg'
 gem 'activeadmin'
+gem 'twitter-bootstrap-rails'
+gem "therubyracer"
+gem "less-rails"
 
 
 
